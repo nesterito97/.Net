@@ -1,0 +1,7 @@
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\bin\Debug\Lab2.exe.config
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\bin\Debug\Lab2.exe
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\bin\Debug\Lab2.pdb
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\obj\Debug\Lab2.exe
+D:\STUDY\Course 4 University\NET\Lab5\Lab1\obj\Debug\Lab2.pdb
